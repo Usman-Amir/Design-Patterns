@@ -1,0 +1,9 @@
+c:\users\usman\documents\visual studio 2015\Projects\DesignPatterns\SingletonTest\bin\Debug\SingletonTest.dll
+c:\users\usman\documents\visual studio 2015\Projects\DesignPatterns\SingletonTest\bin\Debug\SingletonTest.pdb
+c:\users\usman\documents\visual studio 2015\Projects\DesignPatterns\SingletonTest\bin\Debug\nunit.framework.dll
+c:\users\usman\documents\visual studio 2015\Projects\DesignPatterns\SingletonTest\bin\Debug\Singleton.exe
+c:\users\usman\documents\visual studio 2015\Projects\DesignPatterns\SingletonTest\bin\Debug\Singleton.pdb
+c:\users\usman\documents\visual studio 2015\Projects\DesignPatterns\SingletonTest\bin\Debug\nunit.framework.xml
+c:\users\usman\documents\visual studio 2015\Projects\DesignPatterns\SingletonTest\obj\Debug\SingletonTest.csprojResolveAssemblyReference.cache
+c:\users\usman\documents\visual studio 2015\Projects\DesignPatterns\SingletonTest\obj\Debug\SingletonTest.dll
+c:\users\usman\documents\visual studio 2015\Projects\DesignPatterns\SingletonTest\obj\Debug\SingletonTest.pdb
