@@ -1,0 +1,9 @@
+language: mono
+solution: DesignPatterns.sln
+before_install: 
+	- sudo apt-get install nunit-console
+before_script:
+	- nuget restore DesignPatterns.sln
+after_script:
+	- nunit-console DesignPatterns/bin/Release/DesignPatterns.dll
+
