@@ -7,3 +7,12 @@ c:\users\usman\documents\visual studio 2015\Projects\DesignPatterns\SingletonTes
 c:\users\usman\documents\visual studio 2015\Projects\DesignPatterns\SingletonTest\obj\Debug\SingletonTest.csprojResolveAssemblyReference.cache
 c:\users\usman\documents\visual studio 2015\Projects\DesignPatterns\SingletonTest\obj\Debug\SingletonTest.dll
 c:\users\usman\documents\visual studio 2015\Projects\DesignPatterns\SingletonTest\obj\Debug\SingletonTest.pdb
+C:\Users\Usman\Source\Repos\Design-Patterns\SingletonTest\obj\Debug\SingletonTest.csprojResolveAssemblyReference.cache
+C:\Users\Usman\Source\Repos\Design-Patterns\SingletonTest\obj\Debug\SingletonTest.dll
+C:\Users\Usman\Source\Repos\Design-Patterns\SingletonTest\obj\Debug\SingletonTest.pdb
+C:\Users\Usman\Source\Repos\Design-Patterns\SingletonTest\bin\Debug\SingletonTest.dll
+C:\Users\Usman\Source\Repos\Design-Patterns\SingletonTest\bin\Debug\SingletonTest.pdb
+C:\Users\Usman\Source\Repos\Design-Patterns\SingletonTest\bin\Debug\nunit.framework.dll
+C:\Users\Usman\Source\Repos\Design-Patterns\SingletonTest\bin\Debug\Singleton.exe
+C:\Users\Usman\Source\Repos\Design-Patterns\SingletonTest\bin\Debug\Singleton.pdb
+C:\Users\Usman\Source\Repos\Design-Patterns\SingletonTest\bin\Debug\nunit.framework.xml

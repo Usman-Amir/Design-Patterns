@@ -1,0 +1,8 @@
+c:\users\usman\documents\visual studio 2015\Projects\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Usman\documents\visual studio 2015\Projects\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\Usman\documents\visual studio 2015\Projects\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Usman\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\Usman\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\Usman\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\Singleton.pdb
+C:\Users\Usman\Documents\Visual Studio 2015\Projects\Singleton\Singleton\bin\Debug\nunit.framework.dll
+C:\Users\Usman\Documents\Visual Studio 2015\Projects\Singleton\Singleton\bin\Debug\nunit.framework.xml
