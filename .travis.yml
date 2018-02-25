@@ -1,4 +1,4 @@
-language: mono
+language: csharp
 solution: DesignPatterns.sln
 before_install: 
 	- sudo apt-get install nunit-console
